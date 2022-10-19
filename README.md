@@ -1,5 +1,8 @@
 # Jogo do Mario Utilizando HTML, CSS e JS.
 
+Live Demo: https://otaviogrocha.github.io/game-mario-js/
+
+## Práticas Desenvolvidas: 
 
 - Animações com CSS:
 > @fontfaces, @keyframes, variáveis no css.
@@ -20,3 +23,5 @@
 
 
  > Inspirado a partir da ideia de: [Manual do Dev](https://www.youtube.com/c/ManualdoDev)
+
+
